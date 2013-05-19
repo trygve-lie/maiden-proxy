@@ -1,0 +1,33 @@
+{
+  "name": "maiden-proxy",
+  "version": "0.0.1",
+  "author": {
+    "name": "Trygve Lie",
+    "email": "post@trygve-lie.com"
+  },
+  "description": "The Web Rebels 2013 web site",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trygve-lie/maiden-proxy.git"
+  },
+  "keywords": [
+    "maiden",
+    "proxy"
+  ],
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "contributors": [
+    {
+      "name": "Trygve Lie",
+      "email": "post@trygve-lie.com"
+    }
+  ],
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "http-proxy": "0.10.x"
+  }
+}
