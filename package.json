@@ -28,6 +28,6 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "http-proxy": "0.10.x"
+    "http-proxy": "~1.17.0"
   }
 }
